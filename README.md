@@ -3,17 +3,9 @@
 ### Education
 
 * <u>Data Science - TripleTen LatAm Jan 2025</u>
-* <u>Bachelor's degree, International sales and marketing - IBA Erhvervsakademi Kolding Jan 2025 Jun 2014</u>
-*
-
-<u>Bachelor's degree, International sales and marketing - IBA Erhvervsakademi Kolding Jan 2025 Jun 2014</u>
-
-
-London South Bank University logo
-London South Bank University
-London South Bank University
-BA (Hons), Business Management and MarketingBA (Hons), Business Management and Marketing
-2012 - 2014
+* <u>Bachelor's degree, International sales and marketing - IBA Erhvervsakademi Kolding Jun 2014</u>
+* <u>BA (Hons), Business Management and Marketing - London South Bank University Jun 2014</u>
+* <u>AP Degree, Marketing Management, International sales and marketing Jun 2011</u>
 
 ### Work History
 
