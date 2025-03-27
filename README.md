@@ -6,6 +6,7 @@
 * <u>Bachelor's degree, International sales and marketing - [IBA Erhvervsakademi Kolding](https://iba.dk/international/bachelor/bsc-in-international-business-management/) Jun 2014</u>
 * <u>BA (Hons), Business Management and Marketing - [London South Bank University](https://www.lsbu.ac.uk/study/course-finder/ba-hons-business-management-marketing) Jun 2014</u>
 * <u>AP Degree, Marketing Management, [IBA Erhvervsakademi Kolding](https://iba.dk/fuldtidsuddannelser/professionsbachelor/international-handel-og-markedsfoering/) Jun 2011</u>
+<u>AP Degree, Marketing Management, Jun 2011</u>
 
 ### Work History
 
