@@ -40,5 +40,5 @@
 - Management of financial analysis tools to examine potential risky customers through liquidity and risk behaviors
 
 ### Projects
-
+* Predicción y Exploración de Precios de Automóviles con Streamlit - [Here](https://bokols.github.io/Prediccion_y_Exploracion_de_Precios_de_Automiviles_con_Streamlit/)
 
