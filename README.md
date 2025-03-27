@@ -4,7 +4,7 @@
 
 * <u>Data Science - TripleTen LatAm Jan 2025</u>
 * <u>Bachelor's degree, International sales and marketing - IBA Erhvervsakademi Kolding Jun 2014</u>
-* <u>BA (Hons), Business Management and Marketing - London South Bank University Jun 2014</u>
+* <u>BA (Hons), Business Management and Marketing - [London South Bank University](https://www.lsbu.ac.uk/study/course-finder/ba-hons-business-management-marketing) Jun 2014</u>
 * <u>AP Degree, Marketing Management, International sales and marketing Jun 2011</u>
 
 ### Work History
