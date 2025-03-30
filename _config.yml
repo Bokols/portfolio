@@ -2,10 +2,5 @@ title: Bo Kolstrup
 logo: /asset/Bo-Kolstrup.png
 description: **Científico de Datos** con experiencia en modelos predictivos y análisis de datos
 #show_downloads: true
-social_links:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/bo-kolstrup/
-  - name: GitHub
-    url: https://github.com/Bokols/
 google_analytics:
 theme: theme: jekyll-theme-cayman
