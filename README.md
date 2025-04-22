@@ -36,7 +36,6 @@
 - Utilicé herramientas de análisis financiero para evaluar clientes con posibles riesgos mediante indicadores de liquidez y comportamiento de riesgo.
 
 ### Proyectos
-* * **Aplicación de Pronóstico de Demanda de Productos con Streamlit** - [Aquí](https://bokols.github.io/Product-Demand-Forecasting-Application/)
 * * **Predicción y Exploración de Precios de Automóviles con Streamlit** - [Aquí](https://bokols.github.io/Prediccion_y_Exploracion_de_Precios_de_Automiviles_con_Streamlit/)
 
 
