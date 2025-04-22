@@ -2,10 +2,10 @@
 
 ### Educación
 
-* **Data Science - TripleTen LatAm - Enero 2025**  
-* **Licenciatura en Ventas Internacionales y Marketing - IBA Erhvervsakademi Kolding - Junio 2014**  
-* **BA (Hons) en Gestión Empresarial y Marketing - London South Bank University - Junio 2014**  
-* **AP Degree en Gestión de Marketing - IBA Erhvervsakademi Kolding - Junio 2011**  
+* **Data Science** - TripleTen LatAm - Enero 2025  
+* **Licenciatura en Ventas Internacionales y Marketing** - IBA Erhvervsakademi Kolding - Junio 2014
+* **BA (Hons) en Gestión Empresarial y Marketing** - London South Bank University - Junio 2014
+* **AP Degree en Gestión de Marketing** - IBA Erhvervsakademi Kolding - Junio 2011
 
 ### Experiencia Laboral
 
@@ -36,7 +36,8 @@
 - Utilicé herramientas de análisis financiero para evaluar clientes con posibles riesgos mediante indicadores de liquidez y comportamiento de riesgo.
 
 ### Proyectos
-* * **Predicción y Exploración de Precios de Automóviles con Streamlit** - [Aquí](https://bokols.github.io/Prediccion_y_Exploracion_de_Precios_de_Automiviles_con_Streamlit/)
+* * **Aplicación de Pronóstico de Demanda de Productos con Streamlit** - [Lea más sobre el proyecto](https://bokols.github.io/Product-Demand-Forecasting-Application/)
+* * **Predicción y Exploración de Precios de Automóviles con Streamlit** - [Lea más sobre el proyecto](https://bokols.github.io/Prediccion_y_Exploracion_de_Precios_de_Automiviles_con_Streamlit/)
 
 
 
