@@ -37,7 +37,7 @@
 
 ### Proyectos
 * * **Aplicación de Pronóstico de Demanda de Productos con Streamlit** - [Lea más sobre el proyecto](https://bokols.github.io/Product-Demand-Forecasting-Application/)
-* * **Predicción y Exploración de Precios de Automóviles con Streamlit** - [Lea más sobre el proyecto](https://bokols.github.io/Prediccion_y_Exploracion_de_Precios_de_Automiviles_con_Streamlit/)
+* * **Predicción y Exploración de Precios de Automóviles con Streamlit** - [Lea más sobre el proyecto](https://bokols.github.io/Prediccion-de-Precios-de-Vehiculos/)
 
 
 
