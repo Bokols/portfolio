@@ -15,5 +15,6 @@
 **Abierto a colaboraciones** donde la ciencia de datos impulse la innovación empresarial. ¡Conectemos!  
 
 ## Proyectos
+*  **Aplicación de Pronóstico Presupuestario con Machine Learning con Streamlit** - [Lea más sobre el proyecto](https://bokols.github.io/Aplicacion-Inteligente-para-el-Pronostico-de-Presupuesto-Empresarial/)
 *  **Aplicación de Pronóstico de Demanda de Productos con Streamlit** - [Lea más sobre el proyecto](https://bokols.github.io/Product-Demand-Forecasting-Application/)
 *  **Predicción y Exploración de Precios de Automóviles con Streamlit** - [Lea más sobre el proyecto](https://bokols.github.io/Prediccion-de-Precios-de-Vehiculos/)
