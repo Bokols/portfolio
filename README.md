@@ -15,6 +15,17 @@
 **Abierto a colaboraciones** donde la ciencia de datos impulse la innovación empresarial. ¡Conectemos!  
 
 ## Proyectos
-*  **Aplicación de Pronóstico Presupuestario con Machine Learning con Streamlit** - [Lea más sobre el proyecto](https://bokols.github.io/Aplicacion-Inteligente-para-el-Pronostico-de-Presupuesto-Empresarial/)
-*  **Aplicación de Pronóstico de Demanda de Productos con Streamlit** - [Lea más sobre el proyecto](https://bokols.github.io/Product-Demand-Forecasting-Application/)
-*  **Predicción y Exploración de Precios de Automóviles con Streamlit** - [Lea más sobre el proyecto](https://bokols.github.io/Prediccion-de-Precios-de-Vehiculos/)
+*  **Aplicación de Pronóstico Presupuestario**
+*Resumen*
+Proyecto de pronóstico presupuestario que aplica machine learning para predecir costos y ganancias. Usa variables clave como márgenes de ganancia y costos logísticos. Incluye visualizaciones automáticas en Power BI y una API para facilitar su uso empresarial. Mejora la planificación financiera con análisis automatizado.
+[Lea más sobre el proyecto](https://bokols.github.io/Aplicacion-Inteligente-para-el-Pronostico-de-Presupuesto-Empresarial/)
+
+*  **Aplicación de Pronóstico de Demanda de Productos con Streamlit**
+*Resumen*
+Proyecto que usa machine learning para predecir demanda diaria en retail y optimizar inventarios. Se implementó un modelo LightGBM preciso, visualización de resultados y una herramienta interactiva en Streamlit. Futuras mejoras incluyen integración en tiempo real y automatización del flujo.
+[Lea más sobre el proyecto](https://bokols.github.io/Product-Demand-Forecasting-Application/)
+
+*  **Predicción y Exploración de Precios de Automóviles con Streamlit** -
+*Resumen*
+Proyecto que utiliza machine learning para predecir precios de vehículos usados con alta precisión. Se entrenaron modelos como Random Forest, Gradient Boosting y XGBoost, destacando Random Forest (RMSE: $1,591.18). Incluye despliegue en Python para predicciones interactivas con nuevos datos.
+[Lea más sobre el proyecto](https://bokols.github.io/Prediccion-de-Precios-de-Vehiculos/)
