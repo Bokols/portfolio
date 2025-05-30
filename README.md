@@ -43,7 +43,9 @@ Proyecto desarrollado para Sweet Lift Taxi que utiliza modelos de regresión (Ra
 Proyecto de evaluación de algoritmos de machine learning (incluyendo CatBoost, XGBoost y Random Forest) para optimizar predicciones de negocio. Utiliza métricas clave como RMSE y tiempos de ejecución para seleccionar el mejor modelo. Incluye ajuste de hiperparámetros y validación exhaustiva. Ofrece solución óptima balanceando precisión y velocidad para implementación en producción.
 [Lea más sobre el proyecto](https://bokols.github.io/rusty-bargain/)
 
-
+*  **Análisis de Planes Prepagos (Surf vs. Ultimate):**
+Proyecto comparativo de los planes de telefonía móvil de Megaline mediante análisis estadístico y pruebas de hipótesis. Evalúa patrones de uso (llamadas, mensajes, datos) e ingresos mensuales de 500 usuarios. Incluye visualizaciones de datos y pruebas t para validar diferencias significativas. Revela que el plan Ultimate genera mayores ingresos (promedio $72.28 vs $60.13) con menor variabilidad, mientras que el plan Surf presenta más excesos en consumo. Ideal para optimizar estrategias comerciales y de precios.
+[Lea más sobre el proyecto](https://bokols.github.io/megaline/)
 
 
 
