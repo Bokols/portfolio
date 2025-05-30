@@ -35,6 +35,9 @@ Proyecto de machine learning diseñado para predecir la fuga de clientes en una 
 Proyecto que compara modelos de clasificación de sentimientos (Logistic Regression, LightGBM y BERT) aplicados a reseñas de películas. Utiliza técnicas de NLP (NLTK, spaCy, BERT) para preprocesamiento y TF-IDF para vectorización. El modelo Logistic Regression + NLTK obtuvo el mejor equilibrio (F1: 0.88, velocidad), mientras que BERT mostró potencial aunque requirió más recursos. Incluye evaluación detallada de métricas y recomendaciones para optimizar modelos avanzados en futuras iteraciones. Ideal para sistemas de análisis automatizado de opiniones.
 [Lea más sobre el proyecto](https://bokols.github.io/Analisis_de_Sentimientos_de_Resenas_de_Peliculas_Utilizando_Multiples_Modelos_de_ML/)
 
+*  **Predicción de Demanda de Taxis:**
+Proyecto desarrollado para Sweet Lift Taxi que utiliza modelos de regresión (Random Forest, LightGBM, CatBoost y XGBoost) para predecir la demanda horaria de viajes. Tras evaluar múltiples algoritmos, CatBoost demostró el mejor rendimiento (RMSE: 44.7), superando el umbral requerido de 48. Incluye preprocesamiento de datos, ajuste de hiperparámetros y comparación detallada de modelos. La solución permite optimizar flotas, reducir tiempos de espera y mejorar la eficiencia operativa. Implementación lista para producción con resultados validados.
+[Lea más sobre el proyecto](https://bokols.github.io/Prediccion_de_Pedidos_de_Taxi_Usando_Modelos_de_Machine_Learning/)
 
 
 
