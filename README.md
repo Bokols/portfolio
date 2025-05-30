@@ -56,6 +56,10 @@ Proyecto que utiliza modelos de aprendizaje automático para predecir la probabi
 [Lea más sobre el proyecto](https://bokols.github.io/betabank/)
 
 
+*  **Aplicación de Selección Óptima de Pozos Petroleros:**
+Solución analítica que identifica la región más rentable y de menor riesgo para desarrollo de pozos petroleros mediante modelos predictivos y bootstrapping. Evalúa tres regiones (geo_0, geo_1, geo_2) considerando reservas estimadas, ganancias potenciales y riesgo de pérdidas.
+[Lea más sobre el proyecto](https://bokols.github.io/oilygiant/)
+
 
 
 
