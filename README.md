@@ -26,3 +26,12 @@ Proyecto que usa machine learning para predecir demanda diaria en retail y optim
 *  **Predicción y Exploración de Precios de Automóviles con Streamlit:**
 Proyecto que utiliza machine learning para predecir precios de vehículos usados con alta precisión. Se entrenaron modelos como Random Forest, Gradient Boosting y XGBoost, destacando Random Forest (RMSE: $1,591.18). Incluye despliegue en Python para predicciones interactivas con nuevos datos.
 [Lea más sobre el proyecto](https://bokols.github.io/Prediccion-de-Precios-de-Vehiculos/)
+
+*  **Predicción de Pérdida de Clientes para Interconnect:**
+Proyecto de machine learning diseñado para predecir la fuga de clientes en una empresa de telecomunicaciones. Utiliza datos de contratos, perfil demográfico, uso de servicios e internet para entrenar modelos predictivos. Incluye técnicas como balanceo de datos, EDA y optimización de hiperparámetros. El modelo final (Random Forest) logró un AUC-ROC de 0.86 y precisión del 76%, facilitando estrategias proactivas de retención.
+[Lea más sobre el proyecto](https://bokols.github.io/Prediccion_de_la_Perdida_de_Clientes_para_Interconnect/)
+
+
+
+
+
