@@ -28,11 +28,6 @@ Dominio de BERT, TF-IDF, NLTK y spaCy para análisis de sentimientos y clasifica
 **Despliegue de Modelos:**  
 Experiencia práctica con APIs (FastAPI), pipelines automatizados e integración con sistemas empresariales.
 
-#### **Trayectoria Profesional**  
-- **Sinergia entre Marketing y Datos**: Diseñé estrategias de marketing implementando **soluciones de ML** para mejorar embudos de ventas, automatización y análisis de clientes.  
-- **Liderazgo**: En el **Instituto Británico de Cultura de Concepción**, alineé unidades de negocio con soluciones digitales respaldadas por datos, potenciando la presencia digital y la oferta de servicios.  
-- **Orientación a Resultados**: Apasionado por transformar datos en estrategias accionables, ya sea optimizando operaciones o escalando ingresos mediante análisis.  
-
 **Abierto a colaboraciones** donde la ciencia de datos impulse la innovación empresarial. ¡Conectemos!  
 
 ## Proyectos
