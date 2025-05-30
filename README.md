@@ -71,6 +71,11 @@ Solución de machine learning que identifica los factores clave que determinan e
 [Lea más sobre el proyecto](https://bokols.github.io/crankshaft/)
 
 
+*  **Aplicación de Análisis de Hábitos Musicales:**
+Solución analítica que compara los patrones de escucha entre Springfield y Shelbyville, identificando diferencias en actividad por día de la semana y preferencias de género. Revela que Springfield tiene picos de escucha los lunes/viernes (pop y electrónica como géneros dominantes), mientras Shelbyville presenta mayor actividad los miércoles. Incluye módulo de visualización interactiva para explorar tendencias temporales y preferencias musicales.
+[Lea más sobre el proyecto](https://bokols.github.io/yandex-music/)
+
+
 
 
 
