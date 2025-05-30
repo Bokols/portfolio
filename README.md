@@ -47,6 +47,8 @@ Proyecto de evaluación de algoritmos de machine learning (incluyendo CatBoost, 
 Proyecto comparativo de los planes de telefonía móvil de Megaline mediante análisis estadístico y pruebas de hipótesis. Evalúa patrones de uso (llamadas, mensajes, datos) e ingresos mensuales de 500 usuarios. Incluye visualizaciones de datos y pruebas t para validar diferencias significativas. Revela que el plan Ultimate genera mayores ingresos (promedio $72.28 vs $60.13) con menor variabilidad, mientras que el plan Surf presenta más excesos en consumo. Ideal para optimizar estrategias comerciales y de precios.
 [Lea más sobre el proyecto](https://bokols.github.io/megaline/)
 
-
+*  **Análisis de Tendencias en la Industria de Videojuegos (2000-2015):**
+Estudio comparativo de ventas por plataforma, género y región que procesa datos históricos de la industria. Revela que PlayStation 2 fue la plataforma dominante, mientras los géneros Acción y Deportes lideraron en Occidente versus RPGs en Japón. Incluye pruebas estadísticas (Levene) que confirman diferencias significativas en valoraciones de géneros (Acción > Deportes) pero no entre plataformas (Xbox One vs PC). Ideal para estrategias de desarrollo y marketing regionalizado.
+[Lea más sobre el proyecto](https://bokols.github.io/ice/)
 
 
