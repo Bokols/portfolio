@@ -61,6 +61,12 @@ Solución analítica que identifica la región más rentable y de menor riesgo p
 [Lea más sobre el proyecto](https://bokols.github.io/oilygiant/)
 
 
+*  **Aplicación de Regresión Lineal con Ofuscación de Datos para Preservación de Privacidad**
+Solución analítica que implementa modelos de regresión lineal sobre datos ofuscados mediante matrices invertibles, permitiendo el análisis de información confidencial sin comprometer la precisión predictiva. El sistema demuestra que las métricas clave de rendimiento (RMSE: 0.34, R²: 0.66) se mantienen idénticas entre los datos originales y ofuscados, validando la efectividad del método para proteger datos sensibles como edad, ingresos y beneficios de seguros.
+[Lea más sobre el proyecto](https://bokols.github.io/sure-tomorrow/)
+
+
+
 
 
 
