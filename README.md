@@ -31,6 +31,13 @@ Proyecto que utiliza machine learning para predecir precios de vehículos usados
 Proyecto de machine learning diseñado para predecir la fuga de clientes en una empresa de telecomunicaciones. Utiliza datos de contratos, perfil demográfico, uso de servicios e internet para entrenar modelos predictivos. Incluye técnicas como balanceo de datos, EDA y optimización de hiperparámetros. El modelo final (Random Forest) logró un AUC-ROC de 0.86 y precisión del 76%, facilitando estrategias proactivas de retención.
 [Lea más sobre el proyecto](https://bokols.github.io/Prediccion_de_la_Perdida_de_Clientes_para_Interconnect/)
 
+*  **Análisis de Sentimientos en Reseñas de Cine:**
+Proyecto que compara modelos de clasificación de sentimientos (Logistic Regression, LightGBM y BERT) aplicados a reseñas de películas. Utiliza técnicas de NLP (NLTK, spaCy, BERT) para preprocesamiento y TF-IDF para vectorización. El modelo Logistic Regression + NLTK obtuvo el mejor equilibrio (F1: 0.88, velocidad), mientras que BERT mostró potencial aunque requirió más recursos. Incluye evaluación detallada de métricas y recomendaciones para optimizar modelos avanzados en futuras iteraciones. Ideal para sistemas de análisis automatizado de opiniones.
+[Lea más sobre el proyecto](https://bokols.github.io/Analisis_de_Sentimientos_de_Resenas_de_Peliculas_Utilizando_Multiples_Modelos_de_ML/)
+
+
+
+
 
 
 
