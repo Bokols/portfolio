@@ -76,6 +76,10 @@ Solución analítica que compara los patrones de escucha entre Springfield y She
 [Lea más sobre el proyecto](https://bokols.github.io/yandex-music/)
 
 
+*  **Aplicación de Recomendación de Planes Móviles para Megaline:**
+Solución de machine learning que predice el plan óptimo (Smart o Ultra) para cada cliente según su comportamiento de uso (llamadas, mensajes, datos). El modelo de Bosque Aleatorio logra un 79.6% de precisión, superando el objetivo del 75%. Incluye módulo de análisis comparativo entre modelos (Regresión Logística, Árbol de Decisión) y validación con datos reales.
+[Lea más sobre el proyecto](https://bokols.github.io/megaline-2/)
+
 
 
 
