@@ -1,11 +1,32 @@
 ## **Ingeniero de Machine Learning | Científico de Datos | Estratega de Marketing**  
 
-**Científico de Datos** con sólida experiencia en **aprendizaje automático** y **más de 8 años en marketing digital**, combinando habilidades técnicas con visión estratégica para el crecimiento empresarial. Hablo danés e inglés con fluidez y español avanzado, destacándome en **colaboración multidisciplinaria** en los sectores de **bienes de consumo, servicios financieros y educación**.  
+Como **Científico de Datos** con sólida experiencia en aprendizaje automático y más de 8 años en marketing digital, he desarrollado una carrera única que combina:  
+
+- **Habilidades técnicas avanzadas** en machine learning y análisis de datos  
+- **Visión estratégica** para impulsar el crecimiento empresarial  
+- **Experiencia multidisciplinaria** en sectores clave:  
+  - Bienes de consumo  
+  - Servicios financieros  
+  - Educación  
+- **Competencia trilingüe**: Danés (nativo), Inglés (fluido) y Español (avanzado)  
+
+Mi enfoque integra soluciones basadas en datos con objetivos comerciales para generar impacto medible en las organizaciones. 
 
 #### **Habilidades Clave**  
-- **Técnicas**: Modelado predictivo, algoritmos de ML y toma de decisiones basada en datos con **Python y SQL**.  
-- **Experiencia Sectorial**: Optimización (perforación petrolera, segmentación de seguros), análisis de marketing y automatización de campañas.  
-- **Impacto Empresarial**: Estrategia comercial y financiera en multinacionales, optimización de procesos y transformación digital.  
+**Machine Learning & Modelado Predictivo:**  
+Experto en algoritmos avanzados incluyendo Random Forest, XGBoost, LightGBM, CatBoost, Regresión Lineal y SVM. Competente en evaluación de modelos usando RMSE, MAE, R², AUC-ROC y F1-score. Experiencia en técnicas de aprendizaje no supervisado como clustering K-Means, PCA y segmentación de clientes.  
+
+**Procesamiento de Datos:**  
+Habilidades en Python (Pandas, NumPy, Scikit-learn, TensorFlow) y SQL (consultas complejas, optimización). Amplia experiencia en ETL, limpieza de datos, ingeniería de características y manejo de datos desbalanceados.  
+
+**Visualización & Herramientas:**  
+Experto en Streamlit, Power BI, Matplotlib y Seaborn para crear dashboards interactivos e informes ejecutivos. Conocimiento en BigQuery y Excel para análisis financieros y KPIs.  
+
+**NLP & Deep Learning:**  
+Dominio de BERT, TF-IDF, NLTK y spaCy para análisis de sentimientos y clasificación de texto.  
+
+**Despliegue de Modelos:**  
+Experiencia práctica con APIs (FastAPI), pipelines automatizados e integración con sistemas empresariales.
 
 #### **Trayectoria Profesional**  
 - **Sinergia entre Marketing y Datos**: Diseñé estrategias de marketing implementando **soluciones de ML** para mejorar embudos de ventas, automatización y análisis de clientes.  
