@@ -39,6 +39,9 @@ Proyecto que compara modelos de clasificación de sentimientos (Logistic Regress
 Proyecto desarrollado para Sweet Lift Taxi que utiliza modelos de regresión (Random Forest, LightGBM, CatBoost y XGBoost) para predecir la demanda horaria de viajes. Tras evaluar múltiples algoritmos, CatBoost demostró el mejor rendimiento (RMSE: 44.7), superando el umbral requerido de 48. Incluye preprocesamiento de datos, ajuste de hiperparámetros y comparación detallada de modelos. La solución permite optimizar flotas, reducir tiempos de espera y mejorar la eficiencia operativa. Implementación lista para producción con resultados validados.
 [Lea más sobre el proyecto](https://bokols.github.io/Prediccion_de_Pedidos_de_Taxi_Usando_Modelos_de_Machine_Learning/)
 
+*  **Comparación de Modelos Predictivos:**
+Proyecto de evaluación de algoritmos de machine learning (incluyendo CatBoost, XGBoost y Random Forest) para optimizar predicciones de negocio. Utiliza métricas clave como RMSE y tiempos de ejecución para seleccionar el mejor modelo. Incluye ajuste de hiperparámetros y validación exhaustiva. Ofrece solución óptima balanceando precisión y velocidad para implementación en producción.
+[Lea más sobre el proyecto](https://bokols.github.io/rusty-bargain/)
 
 
 
