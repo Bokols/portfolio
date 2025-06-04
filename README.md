@@ -31,9 +31,11 @@ Experiencia práctica con APIs (FastAPI), pipelines automatizados e integración
 **Abierto a colaboraciones** donde la ciencia de datos impulse la innovación empresarial. ¡Conectemos!  
 
 ## Proyectos
-* **Panel Financiero y Operativo para Gestión de Residuos:**
+
+### **Panel Financiero y Operativo para Gestión de Residuos**  
 *Power BI | DAX Avanzado | Modelado de Datos | Visualización Interactiva | Python (Generación de Datos Sintéticos) | UX/UI en Paneles*
-Proyecto que desarrolla un panel financiero y operativo en Power BI para una empresa ficticia de gestión de residuos en Chile, utilizando datos sintéticos que simulan operaciones realistas. Incluye limpieza y modelado de datos, visuales interactivos con KPIs, gráficos y mapas, además de análisis detallados por región, servicio y cliente. Emplea DAX avanzado para pronósticos y lógica de negocio, con un diseño moderno y responsivo. Ideal para demostrar capacidades en inteligencia de negocios y análisis financiero integral.
+
+Proyecto que desarrolla un panel financiero y operativo en Power BI para una empresa ficticia de gestión de residuos en Chile, utilizando datos sintéticos que simulan operaciones realistas. Incluye limpieza y modelado de datos, visuales interactivos con KPIs, gráficos y mapas, además de análisis detallados por región, servicio y cliente. Emplea DAX avanzado para pronósticos y lógica de negocio, con un diseño moderno y responsivo. Ideal para demostrar capacidades en inteligencia de negocios y análisis financiero integral.  
 [Lea más sobre el proyecto](https://bokols.github.io/Panel-de-Analisis-Financiero-Power-BI/)
 
 *  **Aplicación de Pronóstico Presupuestario:**
