@@ -1,4 +1,4 @@
-## **Ingeniero de Machine Learning | Científico de Datos | Estratega de Marketing**  
+## **Ingeniero de Machine Learning | Científico de Datos | Analista de Datos | Estratega de Marketing**  
 
 Como **Científico de Datos** con sólida experiencia en aprendizaje automático y más de 8 años en marketing digital, he desarrollado una carrera única que combina:  
 
