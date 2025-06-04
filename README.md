@@ -31,6 +31,10 @@ Experiencia práctica con APIs (FastAPI), pipelines automatizados e integración
 **Abierto a colaboraciones** donde la ciencia de datos impulse la innovación empresarial. ¡Conectemos!  
 
 ## Proyectos
+* **Panel Financiero y Operativo para Gestión de Residuos:**
+Proyecto que desarrolla un panel financiero y operativo en Power BI para una empresa ficticia de gestión de residuos en Chile, utilizando datos sintéticos que simulan operaciones realistas. Incluye limpieza y modelado de datos, visuales interactivos con KPIs, gráficos y mapas, además de análisis detallados por región, servicio y cliente. Emplea DAX avanzado para pronósticos y lógica de negocio, con un diseño moderno y responsivo. Ideal para demostrar capacidades en inteligencia de negocios y análisis financiero integral.
+[Lea más sobre el proyecto](https://bokols.github.io/Panel-de-Analisis-Financiero-Power-BI/)
+
 *  **Aplicación de Pronóstico Presupuestario:**
 Proyecto que desarrolla un sistema inteligente para predecir costos, ingresos y ganancias con modelos avanzados de machine learning (Random Forest, XGBoost, LightGBM). Combina limpieza de datos, ingeniería de características y modelado predictivo, logrando alta precisión (R² > 0.99). Incluye una API con Streamlit para simulaciones interactivas y paneles automatizados en Power BI para visualización de tendencias, anomalías y métricas clave como márgenes de ganancia. Ideal para equipos financieros que buscan optimizar la planificación con análisis automatizado y explicable.
 [Lea más sobre el proyecto](https://bokols.github.io/Aplicacion-Inteligente-para-el-Pronostico-de-Presupuesto-Empresarial/)
