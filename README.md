@@ -55,7 +55,7 @@ Estoy abierto a **colaboraciones o desafíos** donde la ciencia de datos impulse
 
 ---
 
-## 🧩 Proyectos Destacados
+## � Proyectos Destacados
 
 ### 📈 Finanzas y Forecasting
 
@@ -72,6 +72,11 @@ Estoy abierto a **colaboraciones o desafíos** donde la ciencia de datos impulse
 ---
 
 ### 🛒 Predicción y Optimización Comercial
+
+**[ROI Prediction] Análisis de Efectividad de Campañas de Marketing**  
+*Power BI | Streamlit | Random Forest | R²: 0.969*  
+→ Predicción de ROI y optimización de presupuesto para campañas multicanales.  
+[🔗 Ver proyecto](https://bokols.github.io/Analisis-de-Efectividad-y-ROI-de-Campanas-de-Marketing-/)
 
 **[Demand Forecasting] Aplicación de Pronóstico de Demanda de Productos**  
 *LightGBM | MAE: 7.3 | Simulación de Stock*  
