@@ -97,6 +97,11 @@ Estoy abierto a **colaboraciones o desafíos** donde la ciencia de datos impulse
 
 ### 🧠 NLP y Análisis de Texto
 
+**[NLP] Marco de Evaluación para Asistentes de Voz en Danés**  
+*BERT | spaCy | Transformers | Similitud de Paráfrasis | Streamlit (planeado)*  
+→ Sistema integral para evaluar y mejorar reconocimiento de intenciones en danés con análisis de satisfacción.  
+[🔗 Ver proyecto](https://bokols.github.io/ai_voice_assistant_nlp_project/)
+
 **[NLP] Análisis de Sentimientos en Reseñas de Películas**  
 *BERT | TF-IDF | LightGBM | F1-score: 0.88*  
 → Clasificación binaria de sentimientos con NLP moderno.  
